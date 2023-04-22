@@ -1,0 +1,34 @@
+﻿{
+  "InputFileStatus": {
+    "message": "Status",
+    "description": "MainWindowViewModel.SetupLoc"
+  },
+  "OutputFolderStatus": {
+    "message": "Status",
+    "description": "MainWindowViewModel.SetupLoc"
+  },
+  "InputFileTitle": {
+    "message": "TTMP File",
+    "description": "MainWindowViewModel.SetupLoc"
+  },
+  "OutputFolderTitle": {
+    "message": "Output File",
+    "description": "MainWindowViewModel.SetupLoc"
+  },
+  "DarkModeTooltip": {
+    "message": "Switch to light mode",
+    "description": "MainWindowViewModel.SetupLoc"
+  },
+  "LightModeTooltip": {
+    "message": "Switch to dark mode",
+    "description": "MainWindowViewModel.SetupLoc"
+  },
+  "CloseButton": {
+    "message": "Close",
+    "description": "MainWindowViewModel.SetupLoc"
+  },
+  "ExtractButton": {
+    "message": "Extract!",
+    "description": "MainWindowViewModel.SetupLoc"
+  }
+}

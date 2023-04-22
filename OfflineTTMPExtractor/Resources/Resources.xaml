@@ -1,0 +1,6 @@
+﻿<ResourceDictionary x:Class="OfflineTTMPExtractor.Resources.ResourceDictionary"
+                    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    >
+  <FontFamily x:Key="NerdFont">pack://application:,,,/OfflineTTMPExtractor;component/Resources/Fonts/NerdFontCaskaydiaMono.otf#CaskaydiaCove NFM</FontFamily>
+</ResourceDictionary>

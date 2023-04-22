@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OfflineTTMPExtractor", "OfflineTTMPExtractor\OfflineTTMPExtractor.csproj", "{ACDF79C6-16FE-44AC-83E8-512CEEE1FDF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACDF79C6-16FE-44AC-83E8-512CEEE1FDF1}.Debug|x64.ActiveCfg = Debug|x64
+		{ACDF79C6-16FE-44AC-83E8-512CEEE1FDF1}.Debug|x64.Build.0 = Debug|x64
+		{ACDF79C6-16FE-44AC-83E8-512CEEE1FDF1}.Release|x64.ActiveCfg = Release|x64
+		{ACDF79C6-16FE-44AC-83E8-512CEEE1FDF1}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10A9982C-85C7-46D5-A21C-60EF38CAB5B1}
+	EndGlobalSection
+EndGlobal

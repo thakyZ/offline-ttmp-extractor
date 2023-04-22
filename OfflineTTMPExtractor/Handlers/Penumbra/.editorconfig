@@ -1,0 +1,13 @@
+root = true
+
+[*.cs]
+dotnet_analyzer_diagnostic.category-performance.severity = none
+dotnet_analyzer_diagnostic.category-design.severity      = none
+dotnet_analyzer_diagnostic.severity = none
+dotnet_diagnostic.C6259.severity    = warning
+dotnet_diagnostic.CA1801.severity   = warning
+dotnet_diagnostic.CA1804.severity   = warning
+dotnet_diagnostic.CA1811.severity   = warning
+dotnet_diagnostic.CA1812.severity   = none
+dotnet_diagnostic.CA1823.severity   = warning
+dotnet_diagnostic.CS0067.severity   = warning
